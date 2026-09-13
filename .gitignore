@@ -1,0 +1,4 @@
+intel_images/
+data/*.zip
+data/seg_train/
+data/seg_test/venv/
