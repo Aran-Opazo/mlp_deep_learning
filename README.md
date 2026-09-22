@@ -1,9 +1,13 @@
-# Clasificación de imágenes con Perceptrón Multicapa (MLP)
+# Perceptrón Multicapa (MLP) para clasificación — Experimentación controlada
 
-**Curso:** Técnicas Avanzadas de Machine Learning (TLY1102)
-**Evaluación:** Evaluación Parcial N°1 — Presentación y defensa técnica del proyecto
+**Curso:** Deep Learning (DLY0100) — Sección 012V
+**Evaluación:** Evaluación Parcial 1
 **Integrantes:** Luis Muñoz, Aran Opazo
-**Fecha:** 15 de septiembre, 2026
+**Fecha:** Por definir
+
+## Origen del proyecto
+
+Este proyecto toma como punto de partida el MLP desarrollado por el mismo equipo en la asignatura Técnicas Avanzadas de Machine Learning (TLY1102), disponible en el repositorio [red_neuronal](https://github.com/LmunozL87/red_neuronal). Para esta evaluación se adaptó a un nuevo dataset y se amplió con experimentación controlada, comparación de funciones de activación y pérdida, regularización y selección del modelo basada exclusivamente en validación.
 
 ## Descripción del proyecto
 
