@@ -1,8 +1,11 @@
 # Perceptrón Multicapa (MLP) para clasificación — Experimentación controlada
 
 **Curso:** Deep Learning (DLY0100) — Sección 012V
+
 **Evaluación:** Evaluación Parcial 1
+
 **Integrantes:** Luis Muñoz, Aran Opazo
+
 **Fecha:** Por definir
 
 ## Origen del proyecto
